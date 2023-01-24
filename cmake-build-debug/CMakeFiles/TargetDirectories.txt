@@ -1,0 +1,3 @@
+C:/Users/Yannik/CLionProjects/Big_Boi_New/cmake-build-debug/CMakeFiles/Big_Boi_New.dir
+C:/Users/Yannik/CLionProjects/Big_Boi_New/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yannik/CLionProjects/Big_Boi_New/cmake-build-debug/CMakeFiles/rebuild_cache.dir
